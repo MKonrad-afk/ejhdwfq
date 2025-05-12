@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TOQksdVW7Ng=",
+  "success": true,
+  "projectFilePath": "/Users/konradmarkiewicz/RiderProjects/WebApplication3/WebApplication3/WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "/Users/konradmarkiewicz/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/konradmarkiewicz/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
